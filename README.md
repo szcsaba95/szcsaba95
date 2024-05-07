@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szcsaba95
-- 👀 I’m interested in self-education, football and learn new programming languages. 
+- 👀 I’m interested in self-education, football, politics and learn new programming languages. 
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
